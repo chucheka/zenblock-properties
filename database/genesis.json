@@ -1,0 +1,7 @@
+{
+  "genesis_time": "2024-10-15T00:00:00.000000000Z",
+  "chain_id": "zenblock-properties-ledger",
+  "balances": {
+    "chike": 1000000
+  }
+}
